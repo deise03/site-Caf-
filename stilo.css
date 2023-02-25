@@ -1,0 +1,10 @@
+h1{
+    color:hsl(0, 100%, 25%,0.5);
+    font-size: 45px;
+    text-align:justify;
+    border:10px solid rgb(68, 2, 2);
+}
+
+body{
+    background-color: blanchedalmond;
+}
